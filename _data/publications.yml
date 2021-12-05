@@ -13,13 +13,13 @@
   award: Best Paper Award
   online: https://dl.acm.org/doi/10.1145/3432909
 - title: "The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums"
-  authors: <b>Emily Tseng</b>, Rosanna Bellini, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Nicola Dell, and Thomas Ristenpart.
-  pdf: Tseng-2020-USENIX-Sec_Tools-Tactics-Intimate-Partner-Surveillance.pdf
-  venue: USENIX Security 2020. (Acceptance rate 13%).
-  desc: Would-be abusers often learn how to enact intimate partner surveillance through online forums. Our thematic analysis reveals a taxonomy of tools and tactics propagated through these social spaces.
-  online: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
-  video: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
-  award: Distinguished Paper Award. Internet Defense Prize, 3rd place.
+  authors: 
+  pdf: 
+  venue: 
+  desc: 
+  online: 
+  video: 
+  award: 
 - title: "Experiences of Home Health Care Workers during COVID-19 in New York City: A Qualitative Analysis"
   authors: Sterling, MR, <b>Tseng, E</b>, Poon, A, Cho, J, Avgar, AC, Kern, LM, Ankuda, CK, Dell, N.
   pdf: Sterling-2020_JAMAIM_Home-Care-Workers-NYC-COVID.pdf
@@ -41,16 +41,6 @@
   pdf: Tseng-2020-CHI_Designing-to-Engender-Equity-for-Home-Health-Aides.pdf
   online: https://dl.acm.org/doi/abs/10.1145/3313831.3376633
   venue: ACM CHI 2020. (Acceptance rate 24.3%).
-- title: "Is my phone hacked?: Analyzing Clinical Computer Security Interventions with Survivors of Intimate Partner Violence."
-  authors: Diana Freed*, Sam Havron*, <b>Emily Tseng</b>, Andrea Gallardo, Rahul Chatterjee, Thomas Ristenpart, and Nicola Dell.
-  venue: CSCW 2019
-  award: Best Paper Honorable Mention
-  pdf: Freed-2019-CSCW_Is-my-phone-hacked.pdf
-  online: https://dl.acm.org/doi/abs/10.1145/3359304
-- title: "Technology, Home Health Care, and Heart Failure: A Qualitative Analysis with Multiple Stakeholders."
-  authors: Fabian Okeke, <b>Emily Tseng</b>, Benedetta Piantella, Mikaela Brown, Harveen Kaur, Madeline R. Sterling, and Nicola Dell.
-  pdf: Okeke-2019_COMPASS_Technology-Home-Health-Care.pdf
-  venue: ACM COMPASS 2019.
-  online: https://dl.acm.org/doi/10.1145/3314344.3332487
+
 
 
