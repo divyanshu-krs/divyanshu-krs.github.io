@@ -1,8 +1,9 @@
-- title: "Anti-Caste Lessons for Computing: Educate, Agitate, Organize"
-  authors: "<b>Divyanshu Kumar Singh</b>, Palashi Vaghela."
-  venue: XRDS: Crossroads (The ACM Magazine for Students) 
+- title: "Ethical Considerations from Child-Robot Interactions in Under-Resourced Communities"
+  authors: "<b>Divyanshu Kumar Singh</b>, Manohar Kumar, Eduard Fosch-Villaronga, Deepa Singh, Jainendra Shukla."
+  venue: International Journal of Social Robotics (Special Issue Experimental and Integrative Approaches to Robo-Ethics) 
   desc:
-  online: 
+  pdf: "Ethics_IJSR_Divyanshu.pdf"
+  online: "https://link.springer.com/article/10.1007/s12369-022-00882-1"
   video:
 - title: '"<i>Hartal(Strike) Happens Here Everyday</i>": Understanding Impact of Disruption on Education in Kashmir'
   authors: "Asra Sakeen Wani, <b>Divyanshu Kumar Singh</b>, and Pushpendra Singh."
