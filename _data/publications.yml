@@ -1,7 +1,15 @@
+- title: '" Ethical Considerations from Child-Robot Interactions in Under-Resourced Communities'
+  authors: "<b>Divyanshu Kumar Singh</b>, Manohar Kumar, Eduard Fosch-Villaronga, Deepa Singh, Jainendra Shukla."
+  venue: International Journal of Social Robotics (Special Issue on Integerative Ethics) 
+  desc:
+  pdf: "Ethics_IJSR_Divyanshu.pdf"
+  online:
+  video:
 - title: '"<i>Hartal(Strike) Happens Here Everyday</i>": Understanding Impact of Disruption on Education in Kashmir'
   authors: "Asra Sakeen Wani, <b>Divyanshu Kumar Singh</b>, and Pushpendra Singh."
-  venue: ACM CHI 2022 (Conditionally Accepted)
+  venue: ACM CHI 2022 
   desc:
+  pdf: "/Kashmir_edu_chi_22.pdf"
   online:
   video:
 - title: "Design for the Well-Being of LGBTQIA+ University Students."
