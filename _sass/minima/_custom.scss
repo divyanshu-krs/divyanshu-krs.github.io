@@ -14,7 +14,9 @@ h1 {
 }
 
 #quadrant-wrapper {
-  max-width: 1024px;
+  width: 100%;
+  max-width: 1100px;
+  //max-width: 1024px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
